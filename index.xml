@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ananke: a Hugo Theme on Ananke</title>
+    <title>你好，我是潘王雨昂 on Panwang Yuang</title>
     <link>https://pwya.github.io/</link>
-    <description>Recent content in Ananke: a Hugo Theme on Ananke</description>
+    <description>Recent content in 你好，我是潘王雨昂 on Panwang Yuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://pwya.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -64,22 +64,28 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://pwya.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://pwya.github.io/about/</guid>
-      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
+      <title>关于我</title>
       <link>https://pwya.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pwya.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required. Message </description>
+      <description>教育经历 2021-2024 厦门大学管理学 技术经济及管理 (3.9/4.0, 1/10)
+2016-2020 南开大学经济学院 管理学学士 (88.2/100, 前25%)
+2016-2020 南开大学周恩来政府管理学院 政治学学士 (双学位)
+工作论文(此部分文件待更新) Yuwen Xuan, Panwang Yuang, 2022. Systematic Review Of HLM Model in Public Administration (Updated in Dec.)
+Panwang Yuang, Hu Jian, 2022. What Doesn&amp;rsquo;t Kill You, Makes You More Myopic? &amp;ndash;Famine Experience and Managerial Myopia (Updated in Nov.)
+Panwang Yuang, 2022. The Ups and Downs of Bureaucrat Capitalism:The Anti-Corruption in China&amp;rsquo;s Land Market and Firms&amp;rsquo; Efficiency (Updated in Oct.</description>
+    </item>
+    
+    <item>
+      <title>资源汇总</title>
+      <link>https://pwya.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pwya.github.io/about/</guid>
+      <description>tips：如果在连上了个人主页时科学上网了，在下载时是可以取消的哦~
+目录 1. 计量经济学学习资料 2. 数据分析类学习资料 1. 计量经济学学习资料 资料包括:
+陈强, 2014. 高级计量经济学及Stata应用[M]. 第二版. 高等教育出版社.（包括所有数据文件） 陈诗一，陈登科, 2019. 计量经济学[M]. 高等教育出版社. 洪永淼, 2011. 高级计量经济学[M]. 赵西亮, 吴吉林, 译. 高等教育出版社. 洪永淼, 2017. 概率论与统计学[M]. 中国统计出版社. 李子奈, 潘文卿, 2015. 计量经济学[M]. 第四版. 高等教育出版社.（包括圣才笔记和课本） 庞皓, 2019. 计量经济学[M]. 第四版. 科学出版社.（只有圣才笔记） 乔舒亚·安格里斯特, 约恩·斯特芬·皮施克, 2012. 基本无害的计量经济学[M]. 郎金焕, 李井奎, 译. 格致出版社. 邱嘉平, 2020. 因果推断实用计量方法[M]. 上海财经大学出版社. 威廉·H.格林, 2020. 计量经济分析[M]. 张成思, 译. 第八版. 中国人民大学出版社.（包括课后习题答案） 赵西亮, 2017. 基本有用的计量经济学[M]. 北京大学出版社. Wooldridge J M, 2018. 计量经济学导论[M]. 张成思, 译.</description>
     </item>
     
   </channel>
