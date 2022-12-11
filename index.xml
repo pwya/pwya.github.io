@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>你好，我是潘王雨昂 on Ananke</title>
+    <title>Ananke: a Hugo Theme on Ananke</title>
     <link>https://pwya.github.io/</link>
-    <description>Recent content in 你好，我是潘王雨昂 on Ananke</description>
+    <description>Recent content in Ananke: a Hugo Theme on Ananke</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Apr 2017 11:25:05 -0400</lastBuildDate><atom:link href="https://pwya.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -64,24 +64,22 @@ The sixth of January, 1482, is not, however, a day of which history has preserve
     </item>
     
     <item>
-      <title>个人原创</title>
+      <title>About</title>
       <link>https://pwya.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pwya.github.io/about/</guid>
-      <description>未完成，明天再说</description>
+      <description>Illustration from Victor Hugo et son temps (1881) The Hunchback of Notre-Dame (French: Notre-Dame de Paris) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England.</description>
     </item>
     
     <item>
-      <title>联系方式</title>
+      <title>Contact</title>
       <link>https://pwya.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://pwya.github.io/contact/</guid>
-      <description>欢迎随时找我联系。
-我的邮箱：pwya1998@126.com
-Please feel free to contact with me,
-My email: pwya1998@126.com</description>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
+Your Name Email Address An email address is required. Message </description>
     </item>
     
   </channel>
