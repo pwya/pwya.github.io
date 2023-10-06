@@ -13,11 +13,12 @@
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
       <guid>https://pwya.github.io/post/marp%E6%A8%A1%E6%9D%BFawesomemarp-for-university/</guid>
-      <description>在 @初虹（山东财经大学） 基础上修改完成
+      <description> 在 @初虹（山东财经大学） 基础上修改完成
 目前已完成PKU和RUC的模板
 如下是效果图
 下载链接:Onedrive
-下载链接:百度网盘(提取码p829 )</description>
+下载链接:百度网盘(提取码swox)
+BUG维护日志 2023年10月6日 修复了主题渲染无法被识别的问题。 请直接在VScode等运行环境中，直接打开Awesome开头的文件夹，不能点错文件夹等级，否则会无法渲染。 </description>
     </item>
     
     <item>
