@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DID on Panwang Yuang</title>
-    <link>https://pwya.github.io/tags/did/</link>
+    <link>https://panwangyuang.com/tags/did/</link>
     <description>Recent content in DID on Panwang Yuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwya.github.io/tags/did/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/tags/did/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>一文看懂DID最新前沿进展</title>
-      <link>https://pwya.github.io/post/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82did%E6%9C%80%E6%96%B0%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95/</link>
+      <link>https://panwangyuang.com/post/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82did%E6%9C%80%E6%96%B0%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95/</link>
       <pubDate>Sun, 02 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82did%E6%9C%80%E6%96%B0%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95/</guid>
+      <guid>https://panwangyuang.com/post/%E4%B8%80%E6%96%87%E7%9C%8B%E6%87%82did%E6%9C%80%E6%96%B0%E5%89%8D%E6%B2%BF%E8%BF%9B%E5%B1%95/</guid>
       <description>一文看懂DID最新前沿进展 这部分首发于香樟学术公众号：https://mp.weixin.qq.com/s/sKaLgD21Qcdy3Kko</description>
     </item>
     
     <item>
       <title>前沿DID方法实用手册：Fuzzy DID,合成控制DID,DML</title>
-      <link>https://pwya.github.io/post/%E5%89%8D%E6%B2%BFdid%E6%96%B9%E6%B3%95%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C/</link>
+      <link>https://panwangyuang.com/post/%E5%89%8D%E6%B2%BFdid%E6%96%B9%E6%B3%95%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C/</link>
       <pubDate>Wed, 08 Feb 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/%E5%89%8D%E6%B2%BFdid%E6%96%B9%E6%B3%95%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C/</guid>
+      <guid>https://panwangyuang.com/post/%E5%89%8D%E6%B2%BFdid%E6%96%B9%E6%B3%95%E5%AE%9E%E7%94%A8%E6%89%8B%E5%86%8C/</guid>
       <description>部分图片如下： 下载链接</description>
     </item>
     
     <item>
       <title>基本无害的回归猴子——实证快速上手指南</title>
-      <link>https://pwya.github.io/post/%E5%9F%BA%E6%9C%AC%E6%97%A0%E5%AE%B3%E7%9A%84%E5%9B%9E%E5%BD%92%E7%8C%B4%E5%AD%90/</link>
+      <link>https://panwangyuang.com/post/%E5%9F%BA%E6%9C%AC%E6%97%A0%E5%AE%B3%E7%9A%84%E5%9B%9E%E5%BD%92%E7%8C%B4%E5%AD%90/</link>
       <pubDate>Sat, 17 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/%E5%9F%BA%E6%9C%AC%E6%97%A0%E5%AE%B3%E7%9A%84%E5%9B%9E%E5%BD%92%E7%8C%B4%E5%AD%90/</guid>
+      <guid>https://panwangyuang.com/post/%E5%9F%BA%E6%9C%AC%E6%97%A0%E5%AE%B3%E7%9A%84%E5%9B%9E%E5%BD%92%E7%8C%B4%E5%AD%90/</guid>
       <description>见图~ PPT下载链接 PPT中提到的参考文献</description>
     </item>
     
     <item>
       <title>交叠DID实用教程</title>
-      <link>https://pwya.github.io/post/%E4%BA%A4%E5%8F%A0did%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</link>
+      <link>https://panwangyuang.com/post/%E4%BA%A4%E5%8F%A0did%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</link>
       <pubDate>Sun, 11 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/%E4%BA%A4%E5%8F%A0did%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
+      <guid>https://panwangyuang.com/post/%E4%BA%A4%E5%8F%A0did%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</guid>
       <description>交叠DID实用教程 具体讲解了目前交叠DID的使用方法 计量经济圈公众号已同步更新，见： 分享: 交叠DID简明使用教程, 降低学者DID的学习成本 部</description>
     </item>
     

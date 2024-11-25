@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Marp on Panwang Yuang</title>
-    <link>https://pwya.github.io/tags/marp/</link>
+    <link>https://panwangyuang.com/tags/marp/</link>
     <description>Recent content in Marp on Panwang Yuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://pwya.github.io/tags/marp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/tags/marp/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AwesomeMarp for University</title>
-      <link>https://pwya.github.io/post/awesomemarp-for-university/</link>
+      <link>https://panwangyuang.com/post/awesomemarp-for-university/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/awesomemarp-for-university/</guid>
+      <guid>https://panwangyuang.com/post/awesomemarp-for-university/</guid>
       <description>AwesomeMarp for University 在 @初虹（山东财经大学） 基础上修改完成 感谢awesomemarp 原始模板 目前已完成PKU和RUC的模板 可以在相应文件中，找到自己高校的</description>
     </item>
     
     <item>
       <title>高仿Beamer模板</title>
-      <link>https://pwya.github.io/post/%E9%AB%98%E4%BB%BFbeamer%E6%A8%A1%E6%9D%BF/</link>
+      <link>https://panwangyuang.com/post/%E9%AB%98%E4%BB%BFbeamer%E6%A8%A1%E6%9D%BF/</link>
       <pubDate>Fri, 09 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/post/%E9%AB%98%E4%BB%BFbeamer%E6%A8%A1%E6%9D%BF/</guid>
+      <guid>https://panwangyuang.com/post/%E9%AB%98%E4%BB%BFbeamer%E6%A8%A1%E6%9D%BF/</guid>
       <description>高仿Beamer模板 基于VsCode下的Marp插件制作的高仿LaTeX Beamer的模板 Marp又快又方便，效果不好多了？ 使用方法 记得打开</description>
     </item>
     

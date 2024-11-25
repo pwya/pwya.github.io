@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Panwang Yuang</title>
-    <link>https://pwya.github.io/categories/</link>
+    <link>https://panwangyuang.com/categories/</link>
     <description>Recent content in Categories on Panwang Yuang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://pwya.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>original</title>
-      <link>https://pwya.github.io/categories/original/</link>
+      <link>https://panwangyuang.com/categories/original/</link>
       <pubDate>Sun, 24 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/categories/original/</guid>
+      <guid>https://panwangyuang.com/categories/original/</guid>
       <description></description>
     </item>
     
     <item>
       <title>resources</title>
-      <link>https://pwya.github.io/categories/resources/</link>
+      <link>https://panwangyuang.com/categories/resources/</link>
       <pubDate>Thu, 03 Oct 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://pwya.github.io/categories/resources/</guid>
+      <guid>https://panwangyuang.com/categories/resources/</guid>
       <description></description>
     </item>
     
