@@ -6,7 +6,16 @@
     <description>Recent content in Posts on Yuang Panwang </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>md-paper：从AI到word论文的最后一步</title>
+      <link>https://panwangyuang.com/post/md-paper/</link>
+      <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://panwangyuang.com/post/md-paper/</guid>
+      <description>md-paper：从AI到word论文的最后一步 现在的 AI 已经很会“写”，但要把修改真正放回论文里，往往还差最后一步：Word 里的 Zotero 引用、图表</description>
+    </item>
+    
     <item>
       <title>一键获得8种交叠DID估计量</title>
       <link>https://panwangyuang.com/post/%E4%B8%80%E9%94%AE%E8%8E%B7%E5%BE%978%E7%A7%8D%E4%BA%A4%E5%8F%A0did%E4%BC%B0%E8%AE%A1%E9%87%8F/</link>
