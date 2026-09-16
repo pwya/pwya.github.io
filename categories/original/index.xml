@@ -6,7 +6,16 @@
     <description>Recent content in original on Yuang Panwang </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/categories/original/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Sep 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://panwangyuang.com/categories/original/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>PaperFlow：论文投稿进度桌面小部件</title>
+      <link>https://panwangyuang.com/post/paperflow%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E8%BF%9B%E5%BA%A6%E6%A1%8C%E9%9D%A2%E5%B0%8F%E9%83%A8%E4%BB%B6/</link>
+      <pubDate>Wed, 16 Sep 2026 00:00:00 +0000</pubDate>
+      
+      <guid>https://panwangyuang.com/post/paperflow%E8%AE%BA%E6%96%87%E6%8A%95%E7%A8%BF%E8%BF%9B%E5%BA%A6%E6%A1%8C%E9%9D%A2%E5%B0%8F%E9%83%A8%E4%BB%B6/</guid>
+      <description>PaperFlow · 论文投稿进度小部件 一个安静的 Windows 桌面小部件：把正在投的论文摆在一起，点一下就更新进度，一眼看得出哪篇卡在哪一步。 怎么下载 在 GitHub 下载 打开 https://github.com/pwya/paperflow/releases 。 在</description>
+    </item>
+    
     <item>
       <title>md-paper：从AI到word论文的最后一步</title>
       <link>https://panwangyuang.com/post/md-paper/</link>
